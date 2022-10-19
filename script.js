@@ -1,1 +1,1 @@
-script.js
+console.log('welcome to js scriptingg')
